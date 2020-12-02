@@ -1,0 +1,15 @@
+<view class="container">
+    <view class='about-wrap'>
+        <view class='title'>海惠小店</view>
+        <view class='content'>
+            海惠微信商城
+        </view>
+        <view class="line"></view>
+        <view class="content">开发者：ShunGangHu</view>
+        <view class="content">微信：gang0707hu</view>
+        <view class="line"></view>
+        <!-- <view class='content'>
+            更多信息访问：hiolabs.com
+        </view> -->
+    </view>
+</view>
